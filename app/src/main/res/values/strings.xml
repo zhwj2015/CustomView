@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView_Refresh</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="last_updated_text">Updated</string>
+    <dimen name="last_updated_size">10sp</dimen>
+
+    <string name="head_tips_text">Tips</string>
+    <dimen name="head_tips_size">10sp</dimen>
+</resources>
